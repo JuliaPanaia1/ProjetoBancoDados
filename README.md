@@ -1,4 +1,5 @@
-## Hi there 👋
+## Olá pessoal 👋
+## Representantes do Projeto: Julia Silva Panaia e Felipe Fernandes
 
 **Vamos criar um exemplo de tabelas para um sistema de gerenciamento de uma gráfica. As tabelas principais serão Cliente, Pedido e 
 NotaFiscal. Cada uma dessas tabelas terá colunas que representam seus atributos e relacionamentos entre si.**
